@@ -1,0 +1,11 @@
+tail,threshold,observed_rho,n_exceedances,sim_median,sim_ci_lower,sim_ci_upper,mc_pvalue_one_sided,note,bonferroni_pvalue
+left,1.0,0.21755403038236257,143,0.06516416180454265,-0.07276944526614021,0.2097449435050295,0.023,,0.092
+left,1.5,0.030720592012634107,63,0.04521586662742018,-0.22861981176330748,0.3455349776734041,0.536,,1.0
+left,2.0,0.09258149716688795,29,,,,,insufficient exceedances,
+left,2.5,,13,,,,,insufficient exceedances,
+left,3.0,,4,,,,,insufficient exceedances,
+right,1.0,0.46580136399307687,108,0.06930174401238498,-0.06613810560099026,0.2170047780997316,0.0,,0.0
+right,1.5,0.619891486716747,31,0.039478233244868856,-0.24480476247197364,0.38449800781873295,0.0,,0.0
+right,2.0,0.6117109840476733,18,,,,,insufficient exceedances,
+right,2.5,,8,,,,,insufficient exceedances,
+right,3.0,,4,,,,,insufficient exceedances,
